@@ -1,9 +1,3 @@
-﻿admission_type_id,description
-1,Emergency
-2,Urgent
-3,Elective
-4,Newborn
-5,Not Available
-6,NULL
-7,Trauma Center
-8,Not Mapped
+version https://git-lfs.github.com/spec/v1
+oid sha256:d425646596e7294fa7b28502b6ed86176e967d413f6ba4dbfd2101de6ffaa835
+size 134
